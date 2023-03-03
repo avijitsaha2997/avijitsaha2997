@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👻, I'm Avijit Saha (yay)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="400" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-72-two-cute-ghost-friends-transparent-background.gif">
 
 
 - 🔭 I’m currently working on **Linkedin Clone**.
