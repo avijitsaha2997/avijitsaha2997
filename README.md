@@ -1,24 +1,24 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👻, I'm Avijit Saha</h1>
+<h1 align="center">Hi 👻, I'm Avijit Saha (yay)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
-- 🔭 I’m currently working on **Linkedin Clone**
+- 🔭 I’m currently working on **Linkedin Clone**.
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack**.
 
-- 👯 I’m looking to collaborate on **Fullstack E-ecommerce**
+- 👯 I’m looking to collaborate on **Fullstack E-ecommerce**.
 
-- 🤝 I’m looking for help with **Stripe payment method**
+- 🤝 I’m looking for help with **Stripe payment method**.
 
-- 👨‍💻 All of my projects are available at [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+- 👨‍💻 All of my projects are available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
 
-- 💬 Ask me about **React, Node js**
+- 💬 Ask me about **React, Node js**.
 
-- 📫 How to reach me **jit.avi.saha2997@gmail.com**
+- 📫 How to reach me 📧 **jit.avi.saha2997@gmail.com**
 
-- ⚡ Fun fact **I'm a night coder**
+- ⚡ Fun fact **I'm a night coder**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
