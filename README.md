@@ -22,6 +22,7 @@
 - 📫 You can reach me through 📧 **jit.avi.saha2997@gmail.com**
 
 - 💻 All projects are available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+<br/>  
 
 
 
@@ -35,7 +36,7 @@
     <a href="https://www.leetcode.com/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avijitsaha2997" height="30" width="40" /></a>
     <a href="https://discord.gg/#1445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1445" height="40" width="40" /></a>
     <a href="https://codepen.io/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avijitsaha2997" height="30" width="40" /></a>
-    </p>
+    </p><br/> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -96,12 +97,12 @@
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
     </a>
-</p>
+</p><br/> 
 
-<h3 align="left">Work Experience:</h3>
-<p align="left">I have a serious passion for UI effects, animations and creating dynamic user experiences.</p>
+<h3 align="left">Work Experience and Interest:</h3>
+<p align="left">I have a serious passion for UI effects, animations, creating dynamic user experiences and solving problems. Completed many projects with different type of libraries/frameworks and tools. I've almost 1.5 years of experience in this sector. Extra: Fan of Badminton, outdoor activities and TV series (especially magic and adventure).</p><br/> 
 
-
+<h3 align="left">Git Info:</h3>
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha2997&show_icons=true&locale=en&layout=compact" alt="avijitsaha2997"  height="190"/></p>
 
 <p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&show_icons=true&locale=en" alt="avijitsaha2997" height="190"/></p>
