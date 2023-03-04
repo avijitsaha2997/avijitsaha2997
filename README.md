@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="36" width="36" /></a>
+    <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="35" width="35" /></a>
     <a href="https://linkedin.com/in/avijit-saha-209a491a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-saha-209a491a6" height="30" width="40" /></a>
     <a href="https://fb.com/wwwhite.angelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwhite.angelll" height="30" width="40" /></a>
     <a href="https://instagram.com/avijit_saha_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijit_saha_yay" height="30" width="40" /></a>
@@ -54,7 +54,7 @@
             height="38" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="37" height="37" /> </a>
+            alt="python" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a>
@@ -67,27 +67,24 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop" width="35" height="35" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /></a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35" /> </a>
+            src="https://reactnative.dev/img/header_logo.svg" alt="react" width="35" height="35" /> </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
             width="35" height="35" /></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
+        <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"
             alt="nodejs" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"
             alt="express" width="40" height="40" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
+            src="https://img.icons8.com/color/512/mongodb.png"
+            alt="mongodb" width="42" height="42" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            src="https://pngimg.com/uploads/mysql/mysql_PNG11.png"
             alt="mysql" width="40" height="40" /> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
