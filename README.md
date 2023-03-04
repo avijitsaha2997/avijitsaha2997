@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=511a814e9eji5f1rlbqici4m9cwtrrahn3mhb9ebet3yxpq4&rid=giphy.gif&ct=s">
 
 
-- ⏳⚡️ I’m currently working on **Linkedin Clone**.
+- ⏳ I’m currently working on **Linkedin Clone**.
 
-- 💻 I’m currently learning **MERN stack**.
+- ⚡️ I’m currently learning **MERN stack**.
 
 - 🎯 I’ve too much interest in **Game Development**.
 
 - 🔍 I’m looking for help with **Stripe payment method**.
 
-- 👨‍💻 All of my projects are also available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+- 💻 My all projects are available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
 
 - 💬 Ask me about **React, Node js**.
 
