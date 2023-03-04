@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="37" width="37" /></a>
+    <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="36" width="36" /></a>
     <a href="https://linkedin.com/in/avijit-saha-209a491a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-saha-209a491a6" height="30" width="40" /></a>
     <a href="https://fb.com/wwwhite.angelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwhite.angelll" height="30" width="40" /></a>
     <a href="https://instagram.com/avijit_saha_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijit_saha_yay" height="30" width="40" /></a>
