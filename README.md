@@ -99,10 +99,16 @@
 <h3 align="left">Work Experience and Interest:</h3>
 <p align="left">I have a serious passion for UI effects, animations, creating dynamic user experiences and solving problems. Completed many projects with different type of libraries/frameworks and tools. I've almost 1.5 years of experience in this sector. Extra: Fan of Badminton, outdoor activities and TV series (especially magic and adventure).</p><br/> 
 
-<h3 align="left">Git Info:</h3>
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha2997&show_icons=true&locale=en&layout=compact&theme=dark" alt="avijitsaha2997"  height="190"/></p>
 
-<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&show_icons=true&locale=en&theme=dark" alt="avijitsaha2997" height="190"/></p>
+
+
+<h3 align="left">Git Info:</h3>
+<div align="center">
+  <a href="https://github.com/avijitsaha2997">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitsaha2997&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 
 
