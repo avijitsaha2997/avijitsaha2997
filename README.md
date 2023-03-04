@@ -4,6 +4,9 @@
 <img align="right" alt="Coding" width="390" src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=511a814e9eji5f1rlbqici4m9cwtrrahn3mhb9ebet3yxpq4&rid=giphy.gif&ct=s">
 
 
+
+<br/> 
+
 - ⏳ I’m currently working on **Linkedin Clone**.
 
 - ⚡️ I’m currently learning **MERN stack**.
@@ -12,13 +15,16 @@
 
 - 🔍 I’m looking for help with **Stripe payment method**.
 
-- 💻 All projects are available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
-
 - 💬 Ask me about **React, Node js**.
+
+- 😁 Fun fact **I'm a night coder**.
 
 - 📫 You can reach me through 📧 **jit.avi.saha2997@gmail.com**
 
-- ⚡ Fun fact **I'm a night coder**.
+- 💻 All projects are available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
