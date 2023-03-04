@@ -96,9 +96,9 @@
 <p align="left">I have a serious passion for UI effects, animations and creating dynamic user experiences.</p>
 
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha2997&show_icons=true&locale=en&layout=compact" alt="avijitsaha2997"  height="200"/></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha2997&show_icons=true&locale=en&layout=compact" alt="avijitsaha2997"  height="195"/></p>
 
-<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&show_icons=true&locale=en" alt="avijitsaha2997" height="200"/></p>
+<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&show_icons=true&locale=en" alt="avijitsaha2997" height="195"/></p>
 
 
 
