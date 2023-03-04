@@ -100,9 +100,9 @@
 <p align="left">I have a serious passion for UI effects, animations, creating dynamic user experiences and solving problems. Completed many projects with different type of libraries/frameworks and tools. I've almost 1.5 years of experience in this sector. Extra: Fan of Badminton, outdoor activities and TV series (especially magic and adventure).</p><br/> 
 
 <h3 align="left">Git Info:</h3>
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha2997&show_icons=true&locale=en&layout=compact" alt="avijitsaha2997"  height="190"/></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitsaha2997&show_icons=true&locale=en&layout=compact&theme=dark" alt="avijitsaha2997"  height="190"/></p>
 
-<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&show_icons=true&locale=en" alt="avijitsaha2997" height="190"/></p>
+<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&show_icons=true&locale=en&theme=dark" alt="avijitsaha2997" height="190"/></p>
 
 
 
