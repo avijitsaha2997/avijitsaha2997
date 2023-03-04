@@ -15,4 +15,4 @@
             user_name: avijitsaha2997
             # Text on contribution graph 
             text: AVIJIT
-       - uses: jasineri/simple-push-action@v1
+       - uses: avijitsaha2997/simple-push-action@v1
