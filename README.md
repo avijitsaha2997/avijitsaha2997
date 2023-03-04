@@ -98,4 +98,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&show_icons=true&locale=en" alt="avijitsaha2997" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijitsaha2997&" alt="avijitsaha2997" /></p>
+![Snake animation](https://github.com/thepiyushmalhotra/avijitsaha2997/blob/output/github-contribution-grid-snake.svg)
 
