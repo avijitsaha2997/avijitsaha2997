@@ -1,22 +1,22 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👻, I'm Avijit Saha (yay)</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Software Engineer from 🤍BANGLADESH🤍</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=511a814e9eji5f1rlbqici4m9cwtrrahn3mhb9ebet3yxpq4&rid=giphy.gif&ct=s">
 
 
-- 🔭 I’m currently working on **Linkedin Clone**.
+- ⏳⚡️ I’m currently working on **Linkedin Clone**.
 
-- 🌱 I’m currently learning **MERN stack**.
+- 💻 I’m currently learning **MERN stack**.
 
-- 👯 I’m looking to collaborate on **Fullstack E-ecommerce**.
+- 🎯 I’ve too much interest in **Game Development**.
 
-- 🤝 I’m looking for help with **Stripe payment method**.
+- 🔍 I’m looking for help with **Stripe payment method**.
 
-- 👨‍💻 All of my projects are available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+- 👨‍💻 All of my projects are also available at 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
 
 - 💬 Ask me about **React, Node js**.
 
-- 📫 How to reach me 📧 **jit.avi.saha2997@gmail.com**
+- 📫 You can reach me through 📧 **jit.avi.saha2997@gmail.com**
 
 - ⚡ Fun fact **I'm a night coder**.
 
