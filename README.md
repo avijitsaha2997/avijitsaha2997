@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👻, I'm Avijit Saha (yay)</h1>
----
 <h3 align="center">A Software Engineer from 🤍BANGLADESH🤍</h3>
 <img align="right" alt="Coding" width="390" src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=511a814e9eji5f1rlbqici4m9cwtrrahn3mhb9ebet3yxpq4&rid=giphy.gif&ct=s">
 
@@ -29,6 +28,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
     <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="35" width="35" /></a>
     <a href="https://linkedin.com/in/avijit-saha-209a491a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-saha-209a491a6" height="30" width="40" /></a>
@@ -40,6 +40,7 @@
     </p><br/> 
 
 <h3 align="left">Languages and Tools:</h3>
+<hr>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -100,12 +101,14 @@
 
 
 <h3 align="left">Work Experience and Interest:</h3>
+<hr>
 <p align="left">I have a serious passion for UI effects, animations, creating dynamic user experiences and solving problems. Completed many projects with different type of libraries/frameworks and tools. I've almost 1.5 years of experience in this sector. Extra: Fan of Badminton, outdoor activities and TV series (especially magic and adventure).</p><br/> 
 
 
 
 
 <h3 align="left">Git Info:</h3>
+<hr>
 <div align="center">
     <img />
  
