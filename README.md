@@ -105,7 +105,7 @@
 <h3 align="left">Git Info:</h3>
 <div align="center">
   <a href="https://github.com/avijitsaha2997">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=avijitsaha2997&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitsaha2997&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
