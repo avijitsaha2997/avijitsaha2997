@@ -66,7 +66,7 @@
             height="40" /></a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="35" height="35" /></a>
+            alt="photoshop" width="36" height="36" /></a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
             src="https://reactnative.dev/img/header_logo.svg" alt="react" width="35" height="35" /> </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
