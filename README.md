@@ -118,7 +118,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=avijitsaha2997&icon=2&color=12)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijitsaha2997&label=Profile%20views&color=0e75b6&style=flat" alt="avijitsaha2997" /> </p>
 </div>
 
 
