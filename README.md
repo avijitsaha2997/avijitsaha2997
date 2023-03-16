@@ -7,7 +7,7 @@
 
 <br/> 
 
-- ⏳ I’m currently working on **Linkedin Clone**.
+- ⏳ I’m currently working on **Backend Development**.
 
 - ⚡️ I’m currently learning **MERN stack**.
 
