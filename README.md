@@ -118,7 +118,7 @@
 
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijitsaha2997&label=Profile%20views&color=0e75b6&style=flat" alt="avijitsaha2997" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avijitsaha2997&label=Profile%20views&color=000000&style=flat" alt="avijitsaha2997" /> </p>
 </div>
 
 
