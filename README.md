@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👻, I'm Avijit Saha (yay)</h1>
-<h3 align="center">A Software Engineer from 🤍BANGLADESH🤍</h3>
+<h3 align="center">A Software Engineer from BANGLADESH</h3>
 <img align="right" alt="Coding" width="390" src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=511a814e9eji5f1rlbqici4m9cwtrrahn3mhb9ebet3yxpq4&rid=giphy.gif&ct=s">
 
 
