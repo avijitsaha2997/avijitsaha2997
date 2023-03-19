@@ -9,7 +9,7 @@
 
 - ⏳ I’m currently working on **Backend Development**.
 
-- ⚡️ I’m currently learning **MERN stack**.
+- ⚡️ I’m currently learning **MERN Stack**.
 
 - 🎯 I’ve too much interest in **Game Development**.
 
