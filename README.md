@@ -107,7 +107,7 @@
 
 
 
-<h3 align="left">Git Info:</h3>
+<h3 align="left">Github Info:</h3>
 <hr>
 <div align="center">
     <img />
