@@ -13,7 +13,7 @@
 
 - 🎯 I’ve too much interest in **App and Game Development**.
 
-- 🔍 I’m looking for help with **Stripe payment method**.
+- 🔍 I’m looking for help with **Data Structures And ALgorithom.**.
 
 - 💬 Ask me about **React, Node js**.
 
