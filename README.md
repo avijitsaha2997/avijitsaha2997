@@ -39,7 +39,7 @@
     <a href="https://codepen.io/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avijitsaha2997" height="30" width="40" /></a>
     </p><br/> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages And Tools:</h3>
 <hr>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
