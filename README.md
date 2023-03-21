@@ -117,7 +117,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avijitsaha2997&theme=dark&hide_border=false)
 
 ---
-    😇
+    😇😇😇
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avijitsaha2997&label=Profile%20views&color=000000&style=for-the-badge" alt="avijitsaha2997" /> </p>
 </div>
 
