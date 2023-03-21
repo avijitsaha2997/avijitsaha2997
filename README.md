@@ -7,11 +7,11 @@
 
 <br/> 
 
-- ⏳ I’m currently working on **Backend Development**.
+- ⏳ I’m currently working on **Frontkend Development**.
 
-- ⚡️ I’m currently learning **MERN Stack**.
+- ⚡️ I’m currently learning **Backend Development (MERN)**.
 
-- 🎯 I’ve too much interest in **Game Development**.
+- 🎯 I’ve too much interest in **App and Game Development**.
 
 - 🔍 I’m looking for help with **Stripe payment method**.
 
