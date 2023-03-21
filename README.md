@@ -27,7 +27,7 @@
 
 
 
-<h3 align="left">Connect With me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <hr>
 <p align="left">
     <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="35" width="35" /></a>
