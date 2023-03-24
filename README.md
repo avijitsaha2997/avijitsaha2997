@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👻, I'm Avijit Saha (yay)</h1>
 <h3 align="center">A Software Engineer From BANGLADESH</h3>
-<img align="right" alt="Coding" width="200" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
+<img align="right" alt="Coding" width="260" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
 
 
 - ⏳ I’m currently working on **Frontkend Development**.
