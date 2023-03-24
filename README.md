@@ -4,10 +4,6 @@
 <img align="right" alt="Coding" width="200" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
 
 
-
-<br/> 
-<br/> 
-
 - ⏳ I’m currently working on **Frontkend Development**.
 
 - ⚡️ I’m currently learning **Backend Development (MERN)**.
