@@ -24,8 +24,6 @@
 <br/>  
 
 
-
-
 <h3 align="left">Connect With Me:</h3>
 <hr>
 <p align="left">
