@@ -10,13 +10,13 @@
 
 - ⚡️ I’m currently learning **Backend Development (MERN)**.
 
-- 🎯 I’ve too much interest in **App and Game Development**.
+- 🎯 I’ve too much interest in **App and Game Development.**
 
-- 🔍 I’m looking for help with **Data Structure And Algorithom.**.
+- 🔍 I’m looking for help with **Data Structure And Algorithom.**
 
-- 💬 Ask me about **React, Node js**.
+- 💬 Ask me about **React, Node js.**
 
-- 😁 Fun fact about me **I'm a night coder**.
+- 😁 Fun fact about me **I'm a night code at night.**
 
 - 📫 You can reach me through > 📧 **jit.avi.saha2997@gmail.com**
 
