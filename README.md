@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-- ⏳ I’m currently working on **Frontend Development**.
+- ⏳ I’m currently working on **Backend Development**.
 
 - ⚡️ I’m currently learning **Backend Development (MERN)**.
 
