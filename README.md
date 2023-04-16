@@ -8,7 +8,7 @@
 
 - ⏳ I’m currently working on **Backend Development**.
 
-- ⚡️ I’m currently learning **Backend Development (MERN)**.
+- ⚡️ I’m currently learning **Backend Development (Php/Laravel)**.
 
 - 🎯 I’ve too much interest in **App and Game Development.**
 
