@@ -14,7 +14,7 @@
 
 - 🔍 I’m looking for help with **Data Structure And Algorithom.**
 
-- 💬 Ask me about **React, Node js.**
+- 💬 Ask me about **React js, Node js.**
 
 - 😁 Fun fact about me **I love code at night.**
 
