@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React JS, Node JS.**
 
-- 😁 Fun fact about me **I love code at night.**
+- 😁 Fun fact about me **I love to code at night.**
 
 - 📫 You can reach me through > 📧 **jit.avi.saha2997@gmail.com**
 
