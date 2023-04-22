@@ -14,7 +14,7 @@
 
 - 🔍 I’m looking for help with **DSA.**
 
-- 💬 Ask me about **React JS, Node JS.**
+- 💬 Ask me about **Javascript, React.js, Php, Laravel.**
 
 - 😁 Fun fact about me **I love to code at night.**
 
