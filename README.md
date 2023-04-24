@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Javascript, React.js, Php, Laravel.**
 
-- 😁 Fun fact about me **I love to code at night.**
+- 😁 Fun fact about me **I love to code at Night.**
 
 - 📫 You can reach me through > 📧 **jit.avi.saha2997@gmail.com**
 
