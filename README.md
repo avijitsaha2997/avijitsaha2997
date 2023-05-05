@@ -8,13 +8,13 @@
 
 - ⏳ I’m currently working on **Backend Development**.
 
-- ⚡️ I’m currently learning **Backend Development (php/Laravel)**.
+- ⚡️ I’m currently learning **Backend Development Node JS**.
 
 - 🎯 I’ve too much interest in **App and Game Development.**
 
 - 🔍 I’m looking for help with **DSA.**
 
-- 💬 Ask me about **Javascript, React.js, Php, Laravel.**
+- 💬 Ask me about **Javascript, React.js, Node JS.**
 
 - 😁 Fun fact about me **I love to code at Night.**
 
