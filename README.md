@@ -8,7 +8,7 @@
 
 - ⏳ I’m currently working on **Backend Development**.
 
-- ⚡️ I’m currently learning **Backend Development Node JS**.
+- ⚡️ I’m currently learning **Node JS**.
 
 - 🎯 I’ve too much interest in **App and Game Development.**
 
