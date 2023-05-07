@@ -20,7 +20,7 @@
 
 - 📫 You can reach me through >> 📧 **jit.avi.saha2997@gmail.com**
 
-- 💻 Personal Website (Portfolio) > 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
+- 💻 Personal Website (Portfolio) >> 🌐 [https://avijit-saha2997.web.app](https://avijit-saha2997.web.app)
 <br/>  
 
 
