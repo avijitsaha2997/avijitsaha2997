@@ -99,7 +99,7 @@
 
 <h3 align="left">Work Experiences And Interests:</h3>
 <hr>
-<p align="left">I have a serious passion for UI effects, animations, creating dynamic user experiences and solving problems. Completed many projects with different type of libraries/frameworks and tools. I've almost 1.5 years of experience in this sector. Extra: Fan of Badminton, outdoor activities and TV series (especially magic and adventure).</p><br/> 
+<p align="left">I have a serious passion for UI effects, animations, creating dynamic user experiences and solving problems. Completed many projects with different type of libraries/frameworks and tools. I've almost 1.5 years of experience in this sector. Fan of Badminton, outdoor activities and TV series (especially magic and adventure).</p><br/> 
 
 
 
