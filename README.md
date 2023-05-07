@@ -8,9 +8,9 @@
 
 - ⏳ I’m currently working on **Backend Development**.
 
-- ⚡️ I’m currently learning **Node JS**.
+- ⚡️ I’m currently learning **MERN Stack**.
 
-- 🎯 I’ve too much interest in **App and Game Development.**
+- 🎯 I’ve too much interest in **APP Development.**
 
 - 🔍 I’m looking for help with **DSA.**
 
