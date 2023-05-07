@@ -12,7 +12,7 @@
 
 - 🎯 I’ve too much interest in **APP Development.**
 
-- 🔍 I’m looking for help with **DSA.**
+- 🔍 I’m looking for help with **Database Management.**
 
 - 💬 Ask me about **Javascript, React.js, Node JS.**
 
