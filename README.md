@@ -10,7 +10,7 @@
 
 - ⚡️ I’m currently learning **MERN Stack.**
 
-- 🎯 I’ve too much interest in **Cyber Security.**
+- 🎯 I’ve too much interest in **Cyber Security and Mobile App Development.**
 
 - 🔍 I’m looking for help with **Database Management.**
 
