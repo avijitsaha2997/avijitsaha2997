@@ -8,7 +8,7 @@
 
 - ⏳ I’m currently working on **Backend Development**.
 
-- ⚡️ I’m currently learning **MERN Stack.**
+- ⚡️ I’m currently learning **Cloud Computing (AWS).**
 
 - 🎯 I’ve too much interest in **Cyber Security and Mobile App Development.**
 
