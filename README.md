@@ -32,7 +32,7 @@
     <a href="https://fb.com/wwwhite.angelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwhite.angelll" height="30" width="40" /></a>
     <a href="https://instagram.com/avijit_saha_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijit_saha_yay" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avijitsaha2997" height="30" width="40" /></a>
-    <a href="https://discord.gg/#1445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1445" height="40" width="40" /></a>
+    <a href="https://discord.gg/whiteangel2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whiteangel2997" height="40" width="40" /></a>
     <a href="https://codepen.io/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avijitsaha2997" height="30" width="40" /></a>
     </p><br/> 
 
