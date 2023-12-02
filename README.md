@@ -8,7 +8,7 @@
 
 - ⏳ I’m currently working on **Frontend Development**.
 
-- ⚡️ I’m currently learning **GO**
+- ⚡️ I’m currently learning **GO.**
 
 - 🎯 I’ve too much interest in **Mobile App Development.**
 
