@@ -58,7 +58,7 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <a href="https://go.dev" target="_blank" rel="noreferrer">
         <img src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" alt="go"
             width="40" height="38" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
