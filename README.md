@@ -6,11 +6,11 @@
 <br/>
 <br/>
 
-- ⏳ I’m currently working on **Backend Development**.
+- ⏳ I’m currently working on **Frontend Development**.
 
-- ⚡️ I’m currently learning **Cloud Computing (AWS).**
+- ⚡️ I’m currently learning **GO**
 
-- 🎯 I’ve too much interest in **Cyber Security and Mobile App Development.**
+- 🎯 I’ve too much interest in **Mobile App Development.**
 
 - 🔍 I’m looking for help with **Cloud Computing.**
 
