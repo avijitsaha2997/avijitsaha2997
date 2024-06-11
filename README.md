@@ -8,11 +8,11 @@
 
 - ⏳ I’m currently working on **Frontend Development**.
 
-- ⚡️ I’m currently learning **GO.**
+- ⚡️ I’m currently learning **App Development.**
 
 - 🎯 I’ve too much interest in **Mobile App Development.**
 
-- 🔍 I’m looking for help with **Cloud Computing.**
+- 🔍 I’m looking for help with **Nothing.**
 
 - 💬 Ask me about **Javascript, React.js, Node JS.**
 
