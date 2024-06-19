@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-- ⏳ I’m currently working on **Frontend Development**.
+- ⏳ I’m currently working on **React Native.**.
 
 - ⚡️ I’m currently learning **App Development.**
 
@@ -14,7 +14,7 @@
 
 - 🔍 I’m looking for help with **Nothing.**
 
-- 💬 Ask me about **Javascript, React.js, Node JS.**
+- 💬 Ask me about **Javascript, React.js, React Native.**
 
 - 😁 Fun fact about me **I love to code at Night.**
 
