@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-- ⏳ I’m currently working on **React Native.**.
+- ⏳ I’m currently working on **React Native.**
 
 - ⚡️ I’m currently learning **App Development.**
 
