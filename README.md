@@ -8,7 +8,7 @@
 
 - ⏳ I’m currently working on **React Native.**
 
-- ⚡️ I’m currently learning **App Development.**
+- ⚡️ I’m currently learning **Mobile App Development.**
 
 - 🎯 I’ve too much interest in **Mobile App Development.**
 
